@@ -97,13 +97,13 @@ h4{
 
 .navbar-nav .nav-item {
   display: flex;
-  align-items: center; /* Centrado vertical */
+  align-items: center;
   justify-content: center;
   border: 0;
 }
 
 .nav-link {
-  display: block; /* Asegura que el enlace ocupe todo el espacio del li para mejor clic */
+  display: block;
   text-align: center;
   line-height: 1.2;
   white-space: normal;
